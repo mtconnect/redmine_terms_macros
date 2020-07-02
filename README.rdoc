@@ -2,6 +2,6 @@
 
 Wiki and issue macro:
 
-   `{{include_page([project:]title[,version])}}`
+   {{include_page([project:]title[,version])}}
 
- Inlines a page at an optional version
+Inlines a page at an optional version
