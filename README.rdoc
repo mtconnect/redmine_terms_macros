@@ -1,3 +1,7 @@
 = redmine_terms_macros
 
-Description goes here
+Wiki and issue macro:
+
+   `{{include_page([project:]title[,version])}}`
+
+ Inlines a page at an optional version
